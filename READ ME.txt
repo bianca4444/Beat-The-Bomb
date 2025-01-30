@@ -1,0 +1,1 @@
+To play the game open the Application folder and click on core_basic_window.exe. Enjoy!
